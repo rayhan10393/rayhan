@@ -1,0 +1,6 @@
+echo "# rayhan" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/rayhan10393/rayhan.git
+git push -u origin master
